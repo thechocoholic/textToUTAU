@@ -22,11 +22,28 @@ def hell(text):
 
     fixes = {
         "im": "I'm",
+        "arent": "aren't",
         "cant": "can't",
+        "couldnt": "couldn't",
+        "didnt": "didn't",
+        "doesnt": "doesn't",
         "dont": "don't",
-        "werent": "weren't",
+        "hadnt": "hadn't",
+        "hasnt": "hasn't",
         "havent": "haven't",
-        "french bread": "baguette", # mandatory in true teto fashion
+        "isnt": "isn't",
+        "mustnt": "mustn't",
+        "neednt": "needn't", 
+        "oughtnt": "oughtn't", # who says this
+        "shant": "shan't",
+        "shouldnt": "shouldn't",
+        "wasnt": "wasn't",
+        "werent": "weren't",
+        "wont": "won't",
+        "wouldnt": "wouldn't",
+            
+            # this is mandatory trust.
+        "french bread": "baguette", 
     }
 
     for old, new in fixes.items():
