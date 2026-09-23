@@ -1,11 +1,11 @@
 # utauTTS
 
-small hobby cause i know py
-and man
+why did i do this
 this was a mistake
+wouldnt this technically mean this would be TTT (text to teto) software if i hardcoded kasane
 
-# requirements
-*(soon to require openutau)*
+# Requirements
 - A brain
-- PYTHON 3.12 (tested with 3.12.10)
+- PYTHON 3.12.10 (maybe, but i made this with 3.12.10)
 - Tktinker
+*(soon to require something??)*
