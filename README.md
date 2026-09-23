@@ -1,7 +1,9 @@
-# utauTTS
+# textToUTAU
 
 why did i do this
+
 this was a mistake
+
 wouldnt this technically mean this would be TTT (text to teto) software if i hardcoded kasane
 
 ## Requirements
