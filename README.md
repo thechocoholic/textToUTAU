@@ -4,7 +4,7 @@ why did i do this
 
 this was a mistake
 
-wouldnt this technically mean this would be TTT (text to teto) software if i hardcoded kasane
+technically if i hardcoded kasane this would be TTT (text to teto) software 
 
 ## Requirements
 - A brain
