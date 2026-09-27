@@ -4,7 +4,7 @@ why did i do this
 
 this was a mistake
 
-technically if i hardcoded kasane this would be TTT (text to teto) software 
+some cool description here
 
 ## Requirements
 - A [brain](https://en.wikipedia.org/wiki/Brain)
