@@ -12,3 +12,7 @@ some cool description here
 - [pyUtau](https://pypi.org/project/pyutau/) *(potentially removed, further testing needed)*
   
 Inspiration: https://youtu.be/z4qr0D6cSmU
+
+
+## LEGAL
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
