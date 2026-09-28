@@ -6,7 +6,7 @@ this was a mistake
 
 some cool description here
 
-## Requirements
+## Dependencies
 - A [brain](https://en.wikipedia.org/wiki/Brain)
 - [PYTHON 3.12.10](https://www.python.org/downloads/release/python-31210) (depends, but i made this with 3.12.10)
   
